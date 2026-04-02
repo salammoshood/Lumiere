@@ -601,3 +601,12 @@ label {
     color: #70e755;
     margin-top: 64px;
 }
+
+.insidemessage {
+    border-radius: 16px;
+    height: 152px;
+    background-color: #303030;
+    padding: 16px;
+    color: #ffffff;
+    border: none;
+}
